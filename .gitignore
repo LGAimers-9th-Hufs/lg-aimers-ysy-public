@@ -1,0 +1,32 @@
+# Official competition data and redistributed documentation
+data/
+docs/
+
+# Trained models, artifacts, submissions, and runtime outputs
+model/
+model_*/
+submit/
+submit_*/
+output/
+*.zip
+*.npz
+*.json
+*.cbm
+*.pt
+*.pkl
+*.joblib
+catboost_info/
+
+# Local environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.idea/
+.vscode/
+
+# Curated, versioned submission bundles requested for team sharing.
+!model_artifacts/
+!model_artifacts/**

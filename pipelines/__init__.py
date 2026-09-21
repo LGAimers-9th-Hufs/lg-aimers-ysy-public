@@ -1,0 +1,1 @@
+"""Competition-compliant modeling pipelines."""
